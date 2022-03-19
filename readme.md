@@ -22,8 +22,12 @@ Plans:
 	- DOOM!!!
 
 
-note: there isn't a cross compiler yet. 
-This project uses limine.
-	
+ 
+
+| HEADS UP | I have not included a cross-compiler yet. |
+| ----------- | ----------- |
+ 
+# screenshots:
+
 ![ss](meta/ss.png)
 
