@@ -1,9 +1,9 @@
 
-- fnix
+# fnix
 
 This is my first ever operating system. 
 
-Currently, it has a:
+Currently, it has:
 
 	- GDT
 	- IDT
@@ -24,5 +24,5 @@ Plans:
 note: there isn't a cross compiler yet. 
 This project uses limine.
 	
-
+![ss](meta/ss.png)
 
