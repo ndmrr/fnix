@@ -26,7 +26,9 @@ Plans:
 
 | HEADS UP | I have not included a cross-compiler yet. |
 | ----------- | ----------- |
- 
+
+Credits to the creators of limine for making this all possible. Thank you :)
+
 # screenshots:
 
 ![ss](meta/ss.png)
