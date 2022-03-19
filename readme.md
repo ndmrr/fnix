@@ -1,7 +1,7 @@
 
 # fnix
 
-This is my first ever operating system. 
+NOTE: this is my first ever operating system. 
 
 Currently, it has:
 
@@ -19,7 +19,7 @@ Plans:
 	- Syscalls
 	- Lapic
 	- Multitasking
-	- DOOM!!!
+	- DOOM!!!!!
 
 
  
@@ -32,4 +32,3 @@ Credits to the creators of limine for making this all possible. Thank you :)
 # screenshots:
 
 ![ss](meta/ss.png)
-
